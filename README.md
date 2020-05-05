@@ -16,8 +16,9 @@
 
 ## 模板作者
 
-陈素封，博客：独立写生：[cnfeat.com](cnfeat.com)
 
-联系方式：cnfeat@gmail.com
+卢献楚，博客：全域引流：[quanyuyinliu.com](quanyuyinliu.com)
+
+联系方式：luxianchu@qq.com
 
 
