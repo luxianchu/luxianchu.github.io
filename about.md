@@ -2,7 +2,7 @@
 layout: page
 title: "会员介绍"
 description: "你的博客描述冲冲冲 " 
-header-img: "img/green.jpg"
+header-img: ""
 ---
 三十多岁多所
 
